@@ -8,7 +8,7 @@ for(int i=1;i<len;i++){
 if(arr2>=arr1[i]){
     arr2=arr1[i];
 }
-}
+}ff
 int k=0;
 int arr3[k];
 
